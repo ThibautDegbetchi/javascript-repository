@@ -1,0 +1,36 @@
+{
+    "messages":[
+        {
+            "message_id": "001",
+            "sender_id": "user_123",
+            "receiver_id": "user_456",
+            "content": "Hi there!",
+            "timestamp": "2024-09-03T08:30:00Z",
+            "read": true
+        },
+        {
+            "message_id": "002",
+            "sender_id": "user_456",
+            "receiver_id": "user_123",
+            "content": "Hello! How are you?",
+            "timestamp": "2024-09-03T08:32:00Z",
+            "read": false
+        },
+        {
+            "message_id": "003",
+            "sender_id": "user_123",
+            "receiver_id": "user_789",
+            "content": "Are we still on for the meeting?",
+            "timestamp": "2024-09-03T09:00:00Z",
+            "read": true
+        },
+        {
+            "message_id": "004",
+            "sender_id": "user_789",
+            "receiver_id": "user_123",
+            "content": "Yes, see you at 10 AM.",
+            "timestamp": "2024-09-03T09:15:00Z",
+            "read": false
+        }
+    ]
+}
